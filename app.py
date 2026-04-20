@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px #Dynamic Data Visualization tool
+#import plotly.express as px #Dynamic Data Visualization tool
 
 st.title("Cricket Info App")
 
